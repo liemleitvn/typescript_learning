@@ -1,0 +1,23 @@
+{
+  "name": "typescript_learning",
+  "version": "1.0.0",
+  "description": "learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liemleitvn/typescript_learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liemleitvn/typescript_learning/issues"
+  },
+  "homepage": "https://github.com/liemleitvn/typescript_learning#readme",
+  "dependencies": {
+    "anychart-nodejs": "^1.3.8",
+    "typescript": "^3.6.4"
+  }
+}
